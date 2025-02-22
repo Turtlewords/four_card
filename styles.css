@@ -115,7 +115,7 @@
  header {
     text-align: center;
     padding: 2%;
-    max-width: 500px;
+    max-width: 550px;
     margin: 0 auto;
  }
 
@@ -233,6 +233,7 @@
     }
 
     .card {
-        width: 400px;
+        height: 265px;
+        width: 375px;
     }
  }
